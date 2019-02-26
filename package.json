@@ -1,6 +1,6 @@
 {
   "name": "gulp-scss-dom",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Use of SCSS features in HTML elements.",
   "main": "index.js",
   "scripts": {
