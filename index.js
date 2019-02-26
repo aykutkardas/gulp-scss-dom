@@ -1,5 +1,5 @@
 const es = require("event-stream");
-const scssDom = require("scss-dom");
+const scssDom = require("scss-dom").default;
 const JSDOM = require("jsdom").JSDOM;
 
 module.exports = function() {
