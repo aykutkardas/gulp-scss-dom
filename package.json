@@ -1,0 +1,32 @@
+{
+  "name": "gulp-scss-dom",
+  "version": "0.0.1",
+  "description": "Use of SCSS features in HTML elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkardas/gulp-scss-dom.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "scss",
+    "dom",
+    "sass",
+    "css"
+  ],
+  "author": "Aykut Kardaş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aykutkardas/gulp-scss-dom/issues"
+  },
+  "homepage": "https://github.com/aykutkardas/gulp-scss-dom#readme",
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "jsdom": "^13.2.0",
+    "scss-dom": "^0.2.1"
+  }
+}
