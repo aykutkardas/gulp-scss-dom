@@ -26,7 +26,7 @@
   "homepage": "https://github.com/aykutkardas/gulp-scss-dom#readme",
   "dependencies": {
     "event-stream": "^4.0.1",
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "scss-dom": "^0.2.1"
   }
 }
